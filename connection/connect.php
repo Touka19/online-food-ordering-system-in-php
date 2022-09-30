@@ -1,7 +1,7 @@
 <?php
 
 //main connection file for both admin & front end
-$servername = "localhost"; //server
+$servername = "intense-shore-29557.herokuapp.com/"; //server
 $username = "root"; //username
 $password = ""; //password
 $dbname = "online_rest";  //database
